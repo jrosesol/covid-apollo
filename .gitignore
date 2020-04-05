@@ -1,0 +1,7 @@
+.env
+/.serverless
+set-core-aws.sh
+set-covid-aws.sh
+
+/node_modules
+.idea

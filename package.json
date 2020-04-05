@@ -1,0 +1,19 @@
+{
+  "name": "covid-apollo",
+  "version": "1.0.0",
+  "description": "Covid data source",
+  "main": "graphql.js",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "apollo-server-lambda": "^2.11.0",
+    "graphql": "^14.6.0",
+    "knex": "^0.20.11",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Rose",
+  "license": "ISC"
+}
