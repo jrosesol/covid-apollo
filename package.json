@@ -4,7 +4,7 @@
   "description": "Covid data source",
   "main": "graphql.js",
   "dependencies": {
-    "apollo-server": "^2.11.0",
+    "apollo-server": "^2.25.3",
     "apollo-server-lambda": "^2.11.0",
     "graphql": "^14.6.0",
     "knex": "^0.20.11",
